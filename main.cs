@@ -17,6 +17,21 @@ int subduction(int a,int b)
     return a-b;
 }
 
+//this is funcation create by test
+void test()
+{
+    //hah i am test
+}
+
+void test2()
+{
+    //hhhh,,,,,,,,,
+}
+
+void test3(){
+    //sdfsdfsf
+}
+
 int multiplication(int a,int b)
 {
     return a*b;
