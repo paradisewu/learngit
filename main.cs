@@ -23,6 +23,12 @@ void test()
     //hah i am test
 }
 
-void test2(){
+void test2()
+{
     //hhhh,,,,,,,,,
+}
+
+int multiplication(int a,int b)
+{
+    return a*b;
 }
