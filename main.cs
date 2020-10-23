@@ -28,6 +28,10 @@ void test2()
     //hhhh,,,,,,,,,
 }
 
+void test3(){
+    //sdfsdfsf
+}
+
 int multiplication(int a,int b)
 {
     return a*b;
