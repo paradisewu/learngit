@@ -8,6 +8,7 @@ void main(){
 
 int Add(int a,int b)
 {
+    debug.log("this is change by wuyang")
     return a+b;
 }
 
