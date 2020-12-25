@@ -22,6 +22,7 @@ int subduction(int a,int b)
 void test()
 {
     //hah i am test
+    debug.log("change test1");
 }
 
 void test2()
