@@ -8,6 +8,7 @@ void main(){
 
 int Add(int a,int b)
 {
+    debug.log("this is change by wuyang")
     return a+b;
 }
 
@@ -21,6 +22,7 @@ int subduction(int a,int b)
 void test()
 {
     //hah i am test
+    debug.log("change test1");
 }
 
 void test2()
@@ -38,5 +40,10 @@ int multiplication(int a,int b)
 }
 
 int division(int a,int b){
+	return a/b;
+}
+
+
+int find(int a,int b){
 	return a/b;
 }
